@@ -70,7 +70,7 @@ Supports basic arithmetic operations, parentheses, keyboard input, and includes 
 
 ## License
 
-This project is provided for educational and personal use.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
